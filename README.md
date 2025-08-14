@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫Nguyen Minh Thu :
 - 🌱 I’m currently learning Software Engineering at FPT University
 - 🌱 Learning about: HTML, CSS ,Java, C#, MVVM patterns, TypeScript.
 - 🧠 Ask me about: Firebase, React, Flutterand Project Management
